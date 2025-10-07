@@ -14,7 +14,7 @@ http.createServer(function (req, res) {
 <body>
     <h1>Welcome to My Web Page</h1>
     <h2>About Me</h2>
-    <p>Hello! My name is Muhammad Ahmad. Im a student at Goldsmiths University, studying Computer Science.</p>
+    <p>Hello, My name is Muhammad Ahmad. Im a student at Goldsmiths University, studying Computer Science.</p>
 </body>
 </html>`);
 }).listen(port, function () {
